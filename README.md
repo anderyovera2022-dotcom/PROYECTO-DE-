@@ -41,3 +41,17 @@ Integrantes :
 - Administrar clientes, horarios y servicios desde un panel de control.
 
 - Generar reportes de reservas y clientes.
+
+## Sprint 1 - Control de Versiones y Colaboración
+
+- Configurar repositorio Git con estructura profesional.
+
+- Inicialización del proyecto backend con Spring Boot.
+
+- Inicialización del proyecto frontend con React.
+ 
+- Definición de la estrategia de ramas.
+
+- Registro de evidencias de colaboración del equipo.
+
+- Implementación de Pull Requests obligatorios.
